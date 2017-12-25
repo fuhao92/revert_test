@@ -1,0 +1,10 @@
+[http]
+	proxy = http://192.0.0.88:80
+
+[gui]
+	recentrepo = D:/Test_commit_create/Git_dome
+[user]
+	name = test
+	email = 749976708@163.com
+[credential]
+  helper = store
