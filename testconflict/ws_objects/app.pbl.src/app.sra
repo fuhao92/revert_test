@@ -32,7 +32,7 @@ destroy(error)
 destroy(message)
 end on
 
-event open;//2
+event open;//2abc
 end event
 //abc
 //456
