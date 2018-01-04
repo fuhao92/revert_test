@@ -1,2 +1,6 @@
 sfkkk
+<<<<<<< HEAD
 dsssf
+=======
+dss123
+>>>>>>> master
