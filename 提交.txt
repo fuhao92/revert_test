@@ -4,9 +4,17 @@ abc
 22222222222222222
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 //dfafddf
 fda
 =======
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+//dfafdgdf
+fda
+=======
+>>>>>>> master
 //dsaf
 fda
 >>>>>>> master
