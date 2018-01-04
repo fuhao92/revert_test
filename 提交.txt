@@ -6,6 +6,7 @@ abc
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 //dfafddfs
 fda
 =======
@@ -24,6 +25,20 @@ fda
 //dfafdgdf123
 fda
 =======
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+//dfafddf
+fda
+=======
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+//dfafdgdf123
+fda
+=======
+>>>>>>> master
 >>>>>>> master
 //dsaf
 fda
