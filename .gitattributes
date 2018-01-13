@@ -1,1 +1,4 @@
+[attr]
 *.srw binary
+
+*.txt binary
